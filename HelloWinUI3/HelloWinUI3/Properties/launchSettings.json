@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HelloWinUI3": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

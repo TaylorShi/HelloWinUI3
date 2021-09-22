@@ -13,7 +13,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.ProjectReunion" Version="0.8.4" />
     <PackageReference Include="Microsoft.ProjectReunion.Foundation" Version="0.8.4" />
-    <PackageReference Include="Microsoft.ProjectReunion.WinUI" Version="0.8.4" />
+    <PackageReference Include="Microsoft.UI.Xaml" Version="2.7.0" />
     <Manifest Include="$(ApplicationManifest)" />
   </ItemGroup>
 </Project>
